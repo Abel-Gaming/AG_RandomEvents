@@ -1,1 +1,1 @@
-print('Loaded Fire Hydrant script by Abel Gaming')
+print('Loaded Random Events script by Abel Gaming')
